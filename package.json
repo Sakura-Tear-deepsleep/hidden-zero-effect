@@ -1,0 +1,15 @@
+{
+  "name": "hidden-zero-effect",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "A code-rendered 2.5-minute explainer on the hidden-zero effect in risky decision-making.",
+  "scripts": {
+    "stills": "node render.mjs --stills=0,60,120",
+    "contact": "node render.mjs --contact --keys=64 --cols=8 --tile=200",
+    "frames": "node render.mjs --frames"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.13"
+  }
+}

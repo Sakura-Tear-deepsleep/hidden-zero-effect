@@ -1,0 +1,13 @@
+80% 的概率拿到 100 元——那剩下的 20% 呢？
+
+大多数人做这道题时，脑子里只有「80% 能拿到」，没有「20% 拿到 0」。这两种写法看起来只是措辞差别，但 2026 年中科院心理所的两个实验（N=197，行为 + 眼动 + 计算建模）发现：只要把零写出来，人选择风险项的比例就会显著上升。原因不是他们重新评估了价值——是注意力从确定选项挪到了风险选项上。
+
+这条片子从一道选择题讲起：零怎么被省略、写出来之后注意力怎么移动、人为什么会因此改变选择；再往前追到 628 年，零作为一个「数」是怎么被发明出来的。最后落回一句：决定你的，往往不是你看见的那部分。
+
+参考资料：
+Liang, Z.-Y., Guo, M., Xu, Y., Liu, S.-Y., Zhang, L., & Zhou, L. (2026). Does zero mean nothing? Investigating the attentional mechanism of the hidden-zero effect in risky decision-making. Psychonomic Bulletin & Review, 33, 157–173.
+Magen, E., Dweck, C. S., & Gross, J. J. (2008). The hidden-zero effect: Representing a single choice as an extended sequence reduces impulsive choice. Psychological Science.
+
+全片由代码逐帧生成（Canvas2D 逐帧渲染 + ffmpeg 编码），没有 3D、没有素材库、没有 AI 视频，也没有配音——信息全部由画面与字幕承担。
+
+你上一次做决定时，省略掉的那个「0」，是什么？

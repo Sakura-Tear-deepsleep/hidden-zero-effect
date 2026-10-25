@@ -1,0 +1,17 @@
+# deps
+node_modules/
+
+# rendered output / review sheets
+frames/
+out/
+
+# audio (copyrighted) - only the timing analysis is kept
+audio/*.wav
+audio/*.mp3
+audio/*.m4a
+
+# scratch
+ref/
+*.log
+.DS_Store
+Thumbs.db

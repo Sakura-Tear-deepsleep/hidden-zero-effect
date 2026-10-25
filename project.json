@@ -1,0 +1,12 @@
+{
+  "title": "隐藏零效应 · The Hidden Zero",
+  "width": 1920,
+  "height": 1080,
+  "designWidth": 1280,
+  "designHeight": 720,
+  "fps": 30,
+  "duration": 150.4,
+  "palette": "ember-teal",
+  "audio": "audio/bed_150.wav",
+  "out": "out/the-hidden-zero-1080p.mp4"
+}
